@@ -1,4 +1,4 @@
-# This is the default format. 
+﻿# This is the default format. 
 # For more see: http://jekyllrb.com/docs/permalinks/
 permalink: /:year/:month/:day/:title 
 markdown: rdiscount
@@ -10,12 +10,12 @@ safe: false
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Clover
+title : 苹果爷爷
 tagline: Site Tagline
 author :
-  name : 吕林
-  email : lvlinclover@gmail.com
-  github : https://github.com/clover0319/
+  name : 王若愚
+  email : applegrandpa@126.com
+  github : https://github.com/applegrandpa/
   twitter : username
   feedburner : feedname
 
