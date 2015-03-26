@@ -1,7 +1,7 @@
 ---
 layout: page
-title: clover
-tagline: clover's blog
+title: 苹果爷爷
+tagline: 苹果爷爷's Blog
 ---
 {% include JB/setup %}
 
