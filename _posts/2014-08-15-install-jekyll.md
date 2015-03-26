@@ -44,6 +44,26 @@ tags: [install jekyll]
 
 * Enjoy
 
+* 路宝
+
+![Alt text](/image/onepiece/lubao.jpg)
+
+* 路宝
+
+![Alt text](/image/onepiece/lufei.jpg)
+
+* 罗
+
+![Alt text](/image/onepiece/luo.jpg)
+
+* 路飞&zero
+
+![Alt text](/image/onepiece/lusuo.jpg)
+
+* 娜米
+
+![Alt text](/image/onepiece/nami.jpg)
+
  
 
 
